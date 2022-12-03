@@ -1,3 +1,4 @@
+align="center"
 # Hi 👋, I'm Shumookh
 ### Full stack web developer, programmer
 
