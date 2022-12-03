@@ -3,7 +3,7 @@
 
 - 🔭 I was worked on Moaen, WatchUp, Osain, Ramadan
 - 🌱 I’m currently **Flutter, Dart, React**
-- 📫 How to reach me: Shumookhalharthi1@gmail.com
+- 📫 How to reach me: **Shumookhalharthi1@gmail.com**
 ### Connect with me:
 https://www.linkedin.com/in/shumookh-alharthi-140b89216/
 
