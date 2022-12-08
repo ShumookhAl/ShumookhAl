@@ -2,7 +2,7 @@
 ### Full stack web developer, programmer
 
 - 🔭 I was worked on [Moaen](https://github.com/ShumookhAl/Moaen), [WatchUp](https://github.com/ShumookhAl/WatchUp), [Osain](https://github.com/ShumookhAl/Osain), [Ramadan](https://github.com/ShumookhAl/Ramadan)
-- 🌱 I’m currently **Flutter, Dart, React**
+- 🌱 I’m currently learning **Flutter, Dart, React**
 - 📫 How to reach me: **Shumookhalharthi1@gmail.com**
 ### Connect with me:
 <a href="https://www.linkedin.com/in/shumookh-alharthi-140b89216/" rel="nofollow">
