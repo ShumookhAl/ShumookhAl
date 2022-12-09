@@ -1,4 +1,4 @@
-# :-: Hi 👋, I'm Shumookh :-: 
+# Hi 👋, I'm Shumookh  
 ### Full stack web developer, programmer
 
 - 🔭 I was worked on [Moaen](https://github.com/ShumookhAl/Moaen), [WatchUp](https://github.com/ShumookhAl/WatchUp), [Osain](https://github.com/ShumookhAl/Osain), [Ramadan](https://github.com/ShumookhAl/Ramadan)
