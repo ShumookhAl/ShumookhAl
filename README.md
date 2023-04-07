@@ -2,10 +2,10 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+personal+page+&hearts;++;Self-taught+web+Developer,;Computer+Science+graduate,;Active+Learner/innovative,;Love+to+learn+new+stuffs+<3"></a>
 </p>
-<br>
+
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me:
 
-<br>
+<br> <br>
 
 - A passionate self-taught web developer.
 - I'm enjoy working with javascript, flutter, react and python.
