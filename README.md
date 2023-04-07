@@ -6,16 +6,10 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me:
 
 
-- A passionate Self-taught Front-end developer
-- I'm UI/UX Designer
-- I'm enjoy working with include javascript, flutter,and python.
-- I'm currently learning Web Development by Self
+- A passionate Self-taught web developer
+- I'm enjoy working with javascript, flutter, react and python.
+- I'm currently learning web development and data science by self
 - I’m currently open for an Intern or a new job opportunity
-<!-- - Personal website .. soon! -->
-<!-- -  [link](https://www.0xabdulkhalid.ml) -->
-
-<!-- - , this is [my resume](https://read.cv/0xabdulkhalid) -->
-
 <br><br>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
