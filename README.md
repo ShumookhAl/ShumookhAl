@@ -10,7 +10,7 @@
 - A passionate self-taught web developer.
 - I'm enjoy working with javascript, flutter, react and python.
 - I'm currently learning web development and data science by self.
-- I’m currently open for an Intern or a new job opportunity.
+- I’m currently open for an Intern or a new job opportunity, or to collaborate on projects.
 <br><br>
 
 
