@@ -27,8 +27,7 @@
 
 
 ## <b> </p><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40"> Let's Connect !</b>
-<a href="https://twitter.com/iHaneenAz"><img src="https://github.com/Haneen-Alzahrani2/Haneen-Alzahrani2/blob/main/1.png" width="10%"/></a>
-<a href="https://www.linkedin.com/in/hshumookh-alharthi-140b89216"><img src="https://github.com/Haneen-Alzahrani2/Haneen-Alzahrani2/blob/main/2.png" width="10%"/></a>
+
 
 <br>
 <br>
