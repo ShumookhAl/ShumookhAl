@@ -11,6 +11,7 @@
 - I'm enjoy working with javascript, flutter, react and python.
 - I'm currently learning web development and data science by self.
 - I’m currently open for an Intern or a new job opportunity, or to collaborate on projects.
+- You can to reach me by: ShumookhAlharthi1@gmail.com
 <br><br>
 
 
