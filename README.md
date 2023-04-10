@@ -10,7 +10,7 @@
 - A passionate self-taught web developer.
 - I'm enjoy working with javascript, flutter, react and python.
 - I'm currently learning web development and data science by self.
-- I’m currently open for an Intern or a new job opportunity, or to collaborate on projects.
+- I’m open for an Intern or a new job opportunity, or to collaborate on projects.
 - You can to reach me by: ShumookhAlharthi1@gmail.com
 <br><br>
 
@@ -27,7 +27,7 @@
 
 
 ## <b> </p><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40"> Let's Connect !</b>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shumookh-Alharthi) 
 
 <br>
 <br>
