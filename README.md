@@ -3,7 +3,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+personal+page+&hearts;++;Self-taught+web+Developer,;Computer+Science+graduate,;Active+Learner/innovative,;Love+to+learn+new+stuffs+<3"></a>
 </p>
 
-## <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p><b> In brief</b>
+## <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width ="25"><b> In brief</b>
 <br>
 <br>
 
