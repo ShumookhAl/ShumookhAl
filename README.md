@@ -3,7 +3,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+personal+page+&hearts;++;Self-taught+web+Developer,;Computer+Science+graduate,;Active+Learner/innovative,;Love+to+learn+new+stuffs+<3"></a>
 </p>
 
-## <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width ="25"><b> In brief</b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40"><b> In brief</b>
 <br>
 <br>
 
@@ -11,7 +11,7 @@
 - I'm enjoy working with javascript, flutter, react and python.
 - I'm currently learning web development and data science by self.
 - I’m open for an Intern or a new job opportunity, or to collaborate on projects.
-- You can to reach me by: ShumookhAlharthi1@gmail.com
+- 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/shumookh-alharthi-140b89216/), [Twitter](https://twitter.com/_shumal), Or drop me an [email](mailto:ShumookhAlharthi1@gmail.com).
 <br><br>
 
 
@@ -25,9 +25,6 @@
 
 <br>
 
-
-## <b> </p><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40"> Let's Connect !</b>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shumookh-alharthi-140b89216) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_shumal) 
 
 <br>
 <br>
