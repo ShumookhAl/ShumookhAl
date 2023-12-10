@@ -9,6 +9,7 @@
 - ✍️ I'm currently learning web development and data science by self.
 - 💻 I’m open for an Intern or a new job opportunity, or to collaborate on projects.
 - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/shumookh-alharthi-140b89216/), [Twitter](https://twitter.com/_shumal), Or drop me an [email](mailto:ShumookhAlharthi1@gmail.com).
+- 🔗 Additionally, I will be more than happy if you visit my [bento](https://bento.me/shumookhal)
 <br><br>
 
 
